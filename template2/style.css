@@ -1,0 +1,5 @@
+button.btn.btn-sm.btn-outline-secondary:hover {
+    background-color:#0d6efd;
+    border-color:#0d5fdb;
+    color:rgb(255, 255, 255)
+}
